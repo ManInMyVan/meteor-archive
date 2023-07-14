@@ -1,9 +1,9 @@
 # Meteor Archive
 A Meteor Client archive.
 
-No support will be provided for any bugs in these versions of the client. (nor will anything be added to them)
-
 For people who don't want to build them or find them.
+
+**Disclaimer**: No support will be provided for any bugs in these versions of the client. (nor will anything be added to them)
 
 List of places these jars were obtained:
 ```yaml
