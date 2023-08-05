@@ -4,7 +4,6 @@ A Meteor Client archive.
 For people who don't want to build them or find them.
 
 List of places these jars were obtained:
-
 |Place|Version(s)|
 |-|-|
 |[meteorclient.com](https://meteorclient.com)|none (yet)|
@@ -14,7 +13,7 @@ List of places these jars were obtained:
 |Built With Gradle|none (yet)|
 
 ## Disclaimer
-No support will be provided for these versions by **me** or by **[meteordevelopment](https://github.com/MeteorDevelopment)**, as these are *old* and *outdated* versions of the client.
+No support will be provided for these versions by **me** or by **[MeteorDevelopment](https://github.com/MeteorDevelopment)**, as these are *old* and *outdated* versions of the client.
 
 If you wish to use the latest version of Meteor Client on older server versions, get [ViaFabricPlus](https://modrinth.com/mod/viafabricplus).
 
