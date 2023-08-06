@@ -20,6 +20,9 @@ table {
     border: 2px solid #000000;
     width: 100%;
 }
+td {
+    padding:12px;
+}
 tr:nth-child(even) {
   background: #111111;
 }
