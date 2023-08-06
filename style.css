@@ -22,7 +22,7 @@ table {
 table td th {
     border: 2px solid #000000;
 }
-td {
+td th {
     padding:12px;
 }
 tr:nth-child(even) {
