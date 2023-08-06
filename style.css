@@ -16,6 +16,7 @@ body {
 }
 table {
     border-collapse:collapse;
+    background-color: #222222;
     border: 2px solid #000000;
     width: 100%;
 }
