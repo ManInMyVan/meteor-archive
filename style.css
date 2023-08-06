@@ -1,6 +1,7 @@
 table {
         border-collapse:collapse;
         text-align: center;
+        border: 2px solid #000000;
         border-spacing:0;
 }
 td, th {
