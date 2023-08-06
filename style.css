@@ -19,11 +19,9 @@ table {
     background-color: #222222;
     width: 100%;
 }
-table td th {
+td, th {
     border: 2px solid #000000;
-}
-td th {
-    padding:12px;
+    padding:12px;  
 }
 tr:nth-child(even) {
   background: #111111;
