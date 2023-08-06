@@ -1,5 +1,11 @@
-background: linear-gradient(12deg, #000000 0%, #121212 100%);
-table{border-collapse:collapse;border-spacing:0}
+table {
+        border-collapse:collapse;
+        text-align: center;
+        border-spacing:0;
+}
 td, th {
         text-align:center;
       }
+tr:nth-child(even) {
+  background: #000000;
+}
