@@ -1,12 +1,23 @@
-table {
-        border-collapse:collapse;
-        text-align: center;
-        border: 2px solid #000000;
-        border-spacing:0;
+body {
+    margin-bottom: 30px;
+    padding-left:15px;
+    padding-right:15px;
+    font-family: roboto,sans-serif;
+    text-align: center;
+    }
+.table {
+    overflow: auto;
+    display: block;
+    padding-top:68px;
+    width: 750px;
+    margin-left:auto;
+    margin-right:auto;
 }
-td, th {
-        text-align:center;
-      }
+table {
+    border-collapse:collapse;
+    border: 2px solid #000000;
+    width: 100%;
+}
 tr:nth-child(even) {
-  background: #000000;
+  background: #111111;
 }
