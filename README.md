@@ -34,7 +34,7 @@ List of places these jars were obtained:
 |Taken From Another Meteor Jar|1.19.3-SNAPSHOT, 1.19.2-SNAPSHOT, 1.19-SNAPSHOT, 1.18.2-SNAPSHOT, 1.16.5-SNAPSHOT
 
 Missing Versions:
-|Mod|Misisng Version(s)|
+|Mod|Missing Version(s)|
 |-|-|
 |Meteor Client|0.4.9, 0.4.7, 0.4.6, 0.4.5, 0.4.4, 0.4.3, 0.4.1, 0.3.9, 0.3.7, 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8, 0.2.7, 0.2.6, 0.2.5|
 |Starscript|0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0|
