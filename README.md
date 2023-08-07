@@ -20,7 +20,7 @@ List of places these jars were obtained:
 |Place|Starscript|
 |-|-|
 |[maven.meteordev.org](https://maven.meteordev.org/#)|0.2.2|
-|Built With Gradle|0.1.5|
+|Built With Gradle|0.2.1, 0.1.5|
 
 |Place|Discord Ipc|
 |-|-|
