@@ -25,7 +25,7 @@ List of places these jars were obtained:
 |Place|Discord Ipc|
 |-|-|
 |[maven.meteordev.org](https://maven.meteordev.org/#)|1.1|
-|Built With Gradle|None (yet)|
+|Built With Gradle|1.0|
 
 |Place|Meteor's Baritone Fork|
 |-|-|
