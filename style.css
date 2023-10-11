@@ -24,7 +24,7 @@ td, th {
     padding:12px;  
 }
 thead {
-    background-color: #111111;
+    background-color: #222222;
 }
 tr:nth-child(odd) {
   background: #111111;
