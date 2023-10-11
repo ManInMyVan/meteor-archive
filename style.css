@@ -23,6 +23,6 @@ td, th {
     border: 2px solid #000000;
     padding:12px;  
 }
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background: #111111;
 }
