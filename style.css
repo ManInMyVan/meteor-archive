@@ -26,6 +26,6 @@ td, th {
 thead {
     background-color: #222222;
 }
-tr:nth-child(odd) {
+tr:nth-child(odd) td {
   background: #111111;
 }
