@@ -42,6 +42,8 @@ For people who don't want to compile them or find them.
 |0.1.1 - 1.14.4     |[meteor-client-0.1.1.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.1/meteor-client-0.1.1.jar)              |
 |0.1.0 - 1.14.4     |[meteor-client-0.1.0.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.0/meteor-client-0.1.0.jar)              |
 
+`0.4.4` was given to me by `@pengasul` on Discord.
+
 ## Discord Ipc
 
 |Release|Download                                                                                                                 |
