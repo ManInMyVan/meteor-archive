@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteordevelopment",
+    "module": "discord-ipc",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "discord-ipc-1.1.jar",
+          "url": "discord-ipc-1.1.jar",
+          "size": 16032,
+          "sha512": "d84a3785ceb8258d76691d3790d20135ad784bb534111ca8181f109173aac669700809157307c6aac10ea6fddf60ad9e82eb2ff11703451e93fa08e4e36578ff",
+          "sha256": "ff08cee9e27218e5127fec97e907dc54a1a98ceccc7b1cd98af75ee0f4ddc780",
+          "sha1": "cb36df2976623c8aa350c77d70ba0ddf55fe764f",
+          "md5": "59b2c2f9e99c5cab5fabdd63927d60fa"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "discord-ipc-1.1.jar",
+          "url": "discord-ipc-1.1.jar",
+          "size": 16032,
+          "sha512": "d84a3785ceb8258d76691d3790d20135ad784bb534111ca8181f109173aac669700809157307c6aac10ea6fddf60ad9e82eb2ff11703451e93fa08e4e36578ff",
+          "sha256": "ff08cee9e27218e5127fec97e907dc54a1a98ceccc7b1cd98af75ee0f4ddc780",
+          "sha1": "cb36df2976623c8aa350c77d70ba0ddf55fe764f",
+          "md5": "59b2c2f9e99c5cab5fabdd63927d60fa"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "discord-ipc-1.1-sources.jar",
+          "url": "discord-ipc-1.1-sources.jar",
+          "size": 6776,
+          "sha512": "f2d2925d6aebf424b3d8e2b0fecade6b3552e27e1d6f53c1591760e8f28588a194a907b76a1fdf0ee8775d2dfb17b51f545fab02988702536465e31f3efc476e",
+          "sha256": "5c687745501abfe36033238bbcffee6c67d8e1e698a64754cceed45a5ce7e642",
+          "sha1": "564c60a2f6d3ce21e072a96b76480ab551849539",
+          "md5": "8cb769b50e0f832114db05ab2b2bab9c"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "discord-ipc-1.1-javadoc.jar",
+          "url": "discord-ipc-1.1-javadoc.jar",
+          "size": 113748,
+          "sha512": "ae60e5ac0b8cd08743a6325b2fe0a977fcfa749f18043c8ef0ebfbde9e75592412b506dfb0bdb0551517e929ca0c85f6cd782feaf9666d89e6c744467be0b401",
+          "sha256": "2d52f1e124be29fda4e44b6f8ee76a9bf6b5cbfff61d5b2be1fbce63fb75e51d",
+          "sha1": "e0b47482156378eaa29ae24bb2f98b837ec02176",
+          "md5": "4b516f503b5d0c51a7feb03428079a76"
+        }
+      ]
+    }
+  ]
+}

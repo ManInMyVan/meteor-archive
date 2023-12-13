@@ -8,18 +8,18 @@ For people who don't want to compile them or find them.
 
 |Release            |Download                                                                                                                             |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|0.5.5 - 1.20.2     |[meteor-client-0.5.5.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.5.5/meteor-client-0.5.5.jar)              |
-|0.5.4 - 1.20/1.20.1|[meteor-client-0.5.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.5.4/meteor-client-0.5.4.jar)              |
-|0.5.3 - 1.19.4     |[meteor-client-0.5.3.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.5.3/meteor-client-0.5.3.jar)              |
-|0.5.2 - 1.19.3     |[meteor-client-0.5.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.5.2/meteor-client-0.5.2.jar)              |
-|0.5.1 - 1.19.2     |[meteor-client-0.5.1.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.5.1/meteor-client-0.5.1.jar)              |
-|0.5.0 - 1.19       |[meteor-client-0.5.0.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.5.0/meteor-client-0.5.0.jar)              |
-|0.4.8 - 1.18.2     |[meteor-client-0.4.8.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.4.8/meteor-client-0.4.8.jar)              |
-|0.4.4 - 1.16.x     |[meteor-client-0.4.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.4.4/meteor-client-0.4.4.jar)              |
-|0.4.2 - 1.16.x     |[meteor-client-0.4.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.4.2/meteor-client-0.4.2.jar)              |
-|0.3.8 - 1.16.x     |[meteor-client-0.3.8.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.3.8/meteor-client-0.3.8.jar)              |
-|0.3.6 - 1.16.x     |[meteor-client-0.3.6.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.3.6/meteor-client-0.3.6.jar)              |
-|0.2.8 - 1.14.4     |[meteor-client-0.2.8-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.8/meteor-client-0.2.8-1.14.4.jar)|
+|0.5.5 - 1.20.2     |[meteor-client-0.5.5.jar](files/meteor-client/meteor-client-0.5.5.jar)                                                               |
+|0.5.4 - 1.20/1.20.1|[meteor-client-0.5.4.jar](files/meteor-client/meteor-client-0.5.4.jar)                                                               |
+|0.5.3 - 1.19.4     |[meteor-client-0.5.3.jar](files/meteor-client/meteor-client-0.5.3.jar)                                                               |
+|0.5.2 - 1.19.3     |[meteor-client-0.5.2.jar](files/meteor-client/meteor-client-0.5.2.jar)                                                               |
+|0.5.1 - 1.19.2     |[meteor-client-0.5.1.jar](files/meteor-client/meteor-client-0.5.1.jar)                                                               |
+|0.5.0 - 1.19       |[meteor-client-0.5.0.jar](files/meteor-client/meteor-client-0.5.0.jar)                                                               |
+|0.4.8 - 1.18.2     |[meteor-client-0.4.8.jar](files/meteor-client/meteor-client-0.4.8.jar)                                                               |
+|0.4.4 - 1.16.x     |[meteor-client-0.4.4.jar](files/meteor-client/meteor-client-0.4.4.jar)                                                               |
+|0.4.2 - 1.16.x     |[meteor-client-0.4.2.jar](files/meteor-client/meteor-client-0.4.2.jar)                                                               |
+|0.3.8 - 1.16.x     |[meteor-client-0.3.8.jar](files/meteor-client/meteor-client-0.3.8.jar)                                                               |
+|0.3.6 - 1.16.x     |[meteor-client-0.3.6.jar](files/meteor-client/meteor-client-0.3.6.jar)                                                               |
+|0.2.8 - 1.14.4     |[meteor-client-0.2.8-1.14.4.jar](files\meteor-client\meteor-client-0.2.8-1.14.4.jar)                                                 |
 |0.2.6 - 1.15.2     |[meteor-client-0.2.4-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.4/meteor-client-0.2.4-1.15.2.jar)|
 |0.2.4 - 1.15.2     |[meteor-client-0.2.4-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.4/meteor-client-0.2.4-1.14.4.jar)|
 |0.2.4 - 1.15.2     |[meteor-client-0.2.4-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.4/meteor-client-0.2.4-1.15.2.jar)|
@@ -37,27 +37,27 @@ For people who don't want to compile them or find them.
 |0.1.8 - 1.15.2     |[meteor-client-0.1.8-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.8/meteor-client-0.1.8-1.15.2.jar)|
 |0.1.7 - 1.14.4     |[meteor-client-0.1.7-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.7/meteor-client-0.1.7-1.14.4.jar)|
 |0.1.7 - 1.15.2     |[meteor-client-0.1.7-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.7/meteor-client-0.1.7-1.15.2.jar)|
-|0.1.6 - 1.14.4     |[meteor-client-0.1.6.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.6/meteor-client-0.1.6.jar)              |
-|0.1.5 - 1.14.4     |[meteor-client-0.1.5.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.5/meteor-client-0.1.5.jar)              |
-|0.1.4 - 1.14.4     |[meteor-client-0.1.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.4/meteor-client-0.1.4.jar)              |
-|0.1.3 - 1.14.4     |[meteor-client-0.1.3.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.3/meteor-client-0.1.3.jar)              |
-|0.1.2 - 1.14.4     |[meteor-client-0.1.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.2/meteor-client-0.1.2.jar)              |
-|0.1.1 - 1.14.4     |[meteor-client-0.1.1.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.1/meteor-client-0.1.1.jar)              |
-|0.1.0 - 1.14.4     |[meteor-client-0.1.0.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.0/meteor-client-0.1.0.jar)              |
+|0.1.6 - 1.14.4     |[meteor-client-0.1.6.jar](files/meteor-client/meteor-client-0.1.6.jar)                                                               |
+|0.1.5 - 1.14.4     |[meteor-client-0.1.5.jar](files/meteor-client/meteor-client-0.1.5.jar)                                                               |
+|0.1.4 - 1.14.4     |[meteor-client-0.1.4.jar](files/meteor-client/meteor-client-0.1.4.jar)                                                               |
+|0.1.3 - 1.14.4     |[meteor-client-0.1.3.jar](files/meteor-client/meteor-client-0.1.3.jar)                                                               |
+|0.1.2 - 1.14.4     |[meteor-client-0.1.2.jar](files/meteor-client/meteor-client-0.1.2.jar)                                                               |
+|0.1.1 - 1.14.4     |[meteor-client-0.1.1.jar](files/meteor-client/meteor-client-0.1.1.jar)                                                               |
+|0.1.0 - 1.14.4     |[meteor-client-0.1.0.jar](files/meteor-client/meteor-client-0.1.0.jar)                                                               |
 
 ## Discord Ipc
 
-|Release|Download                                                                                                                 |
-|-------|-------------------------------------------------------------------------------------------------------------------------|
-|1.1    |[discord-ipc-1.1.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Discord-Ipc-1.1/discord-ipc-1.1.jar)|
-|1.0    |[discord-ipc-1.0.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Discord-Ipc-1.0/discord-ipc-1.0.jar)|
+|Release|Download                                                        |
+|-------|----------------------------------------------------------------|
+|1.1    |[discord-ipc-1.1.jar](files/discord-ipc/1.1/discord-ipc-1.1.jar)|
+|1.0    |[discord-ipc-1.0.jar](files/discord-ipc/1.0/discord-ipc-1.0.jar)|
 
 ## Orbit
 
-|Release|Download                                                                                                     |
-|-------|-------------------------------------------------------------------------------------------------------------|
-|0.2.4  |[orbit-0.2.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Orbit-0.2.4/orbit-0.2.4.jar)|
-|0.2.3  |[orbit-0.2.3.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Orbit-0.2.3/orbit-0.2.3.jar)|
+|Release|Download                                            |
+|-------|----------------------------------------------------|
+|0.2.4  |[orbit-0.2.4.jar](files/orbit/0.2.4/orbit-0.2.4.jar)|
+|0.2.3  |[orbit-0.2.3.jar](files/orbit/0.2.3/orbit-0.2.3.jar)|
 
 ## Starscript
 
