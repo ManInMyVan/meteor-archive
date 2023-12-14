@@ -74,17 +74,17 @@ For people who don't want to compile them or find them.
 
 ## Meteor Baritone
 
-|Release|Download                                                                                                                                            |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-|1.20.2 |[fabric-1.20.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.2-SNAPSHOT/fabric-1.20.2-SNAPSHOT.jar)    |
-|1.20.1 |[baritone-1.20.1-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.1-SNAPSHOT/baritone-1.20.1-SNAPSHOT.jar)|
-|1.20   |[baritone-1.20-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20-SNAPSHOT/baritone-1.20-SNAPSHOT.jar)      |
-|1.19.4 |[baritone-1.19.4-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.19.4-SNAPSHOT/baritone-1.19.4-SNAPSHOT.jar)|
-|1.19.3 |[baritone-1.19.3-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.1-SNAPSHOT/baritone-1.19.3-SNAPSHOT.jar)|
-|1.19.2 |[baritone-1.19.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.1-SNAPSHOT/baritone-1.19.2-SNAPSHOT.jar)|
-|1.19   |[baritone-1.19-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.1-SNAPSHOT/baritone-1.19-SNAPSHOT.jar)    |
-|1.18.2 |[baritone-1.18.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.1-SNAPSHOT/baritone-1.18.2-SNAPSHOT.jar)|
-|1.16.5 |[baritone-1.16.5-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Baritone-1.20.1-SNAPSHOT/baritone-1.16.5-SNAPSHOT.jar)|
+|Release|Download                                                                                                                         |
+|-------|---------------------------------------------------------------------------------------------------------------------------------|
+|1.20.2 |[fabric-1.20.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/fabric-1.20.2-SNAPSHOT.jar)    |
+|1.20.1 |[baritone-1.20.1-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.20.1-SNAPSHOT.jar)|
+|1.20   |[baritone-1.20-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.20-SNAPSHOT.jar)    |
+|1.19.4 |[baritone-1.19.4-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.19.4-SNAPSHOT.jar)|
+|1.19.3 |[baritone-1.19.3-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.19.3-SNAPSHOT.jar)|
+|1.19.2 |[baritone-1.19.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.19.2-SNAPSHOT.jar)|
+|1.19   |[baritone-1.19-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.19-SNAPSHOT.jar)    |
+|1.18.2 |[baritone-1.18.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.18.2-SNAPSHOT.jar)|
+|1.16.5 |[baritone-1.16.5-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.16.5-SNAPSHOT.jar)|
 
 ## Missing Versions
 
