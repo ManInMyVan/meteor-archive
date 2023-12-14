@@ -62,16 +62,16 @@ For people who don't want to compile them or find them.
 
 ## Starscript
 
-|Release|Download                                                                                                                    |
-|-------|----------------------------------------------------------------------------------------------------------------------------|
-|0.2.2  |[starscript-0.2.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.2.2/starscript-0.2.2.jar)|
-|0.2.1  |[starscript-0.2.1.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.2.1/starscript-0.2.1.jar)|
-|0.2.0  |[starscript-0.2.0.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.2.0/starscript-0.2.0.jar)|
-|0.1.9  |[starscript-0.1.9.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.1.9/starscript-0.1.9.jar)|
-|0.1.8  |[starscript-0.1.8.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.1.8/starscript-0.1.8.jar)|
-|0.1.7  |[starscript-0.1.7.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.1.7/starscript-0.1.7.jar)|
-|0.1.6  |[starscript-0.1.6.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.1.6/starscript-0.1.6.jar)|
-|0.1.5  |[starscript-0.1.5.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/Starscript-0.1.5/starscript-0.1.5.jar)|
+|Release|Download                                                                                                                 |
+|-------|-------------------------------------------------------------------------------------------------------------------------|
+|0.2.2  |[starscript-0.2.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.2.2/starscript-0.2.2.jar)|
+|0.2.1  |[starscript-0.2.1.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.2.1/starscript-0.2.1.jar)|
+|0.2.0  |[starscript-0.2.0.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.2.0/starscript-0.2.0.jar)|
+|0.1.9  |[starscript-0.1.9.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.1.9/starscript-0.1.9.jar)|
+|0.1.8  |[starscript-0.1.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.1.8/starscript-0.1.8.jar)|
+|0.1.7  |[starscript-0.1.7.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.1.7/starscript-0.1.7.jar)|
+|0.1.6  |[starscript-0.1.6.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.1.6/starscript-0.1.6.jar)|
+|0.1.5  |[starscript-0.1.5.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/starscript/0.1.5/starscript-0.1.5.jar)|
 
 ## Meteor Baritone
 
