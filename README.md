@@ -21,22 +21,22 @@ For people who don't want to compile them or find them.
 |0.3.6 - 1.16.x     |[meteor-client-0.3.6.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.3.6.jar)              |
 |0.2.8 - 1.14.4     |[meteor-client-0.2.8-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.8-1.14.4.jar)|
 |0.2.6 - 1.15.2     |[meteor-client-0.2.6-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.6-1.15.2.jar)|
-|0.2.4 - 1.15.2     |[meteor-client-0.2.4-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.4/meteor-client-0.2.4-1.14.4.jar)     |
-|0.2.4 - 1.15.2     |[meteor-client-0.2.4-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.4/meteor-client-0.2.4-1.15.2.jar)     |
-|0.2.3 - 1.14.4     |[meteor-client-0.2.3-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.3/meteor-client-0.2.3-1.14.4.jar)     |
-|0.2.3 - 1.15.2     |[meteor-client-0.2.3-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.3/meteor-client-0.2.3-1.15.2.jar)     |
-|0.2.2 - 1.14.4     |[meteor-client-0.2.2-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.2/meteor-client-0.2.2-1.14.4.jar)     |
-|0.2.2 - 1.15.2     |[meteor-client-0.2.2-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.2/meteor-client-0.2.2-1.15.2.jar)     |
-|0.2.1 - 1.14.4     |[meteor-client-0.2.1-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.1/meteor-client-0.2.1-1.14.4.jar)     |
-|0.2.1 - 1.15.2     |[meteor-client-0.2.1-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.1/meteor-client-0.2.1-1.15.2.jar)     |
-|0.2.0 - 1.14.4     |[meteor-client-0.2.0-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.0/meteor-client-0.2.0-1.14.4.jar)     |
-|0.2.0 - 1.15.2     |[meteor-client-0.2.0-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.2.0/meteor-client-0.2.0-1.15.2.jar)     |
-|0.1.9 - 1.14.4     |[meteor-client-0.1.9-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.9/meteor-client-0.1.9-1.14.4.jar)     |
-|0.1.9 - 1.15.2     |[meteor-client-0.1.9-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.9/meteor-client-0.1.9-1.15.2.jar)     |
-|0.1.8 - 1.14.4     |[meteor-client-0.1.8-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.8/meteor-client-0.1.8-1.14.4.jar)     |
-|0.1.8 - 1.15.2     |[meteor-client-0.1.8-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.8/meteor-client-0.1.8-1.15.2.jar)     |
-|0.1.7 - 1.14.4     |[meteor-client-0.1.7-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.7/meteor-client-0.1.7-1.14.4.jar)     |
-|0.1.7 - 1.15.2     |[meteor-client-0.1.7-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/releases/download/0.1.7/meteor-client-0.1.7-1.15.2.jar)     |
+|0.2.4 - 1.15.2     |[meteor-client-0.2.4-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.4-1.15.2.jar)|
+|0.2.4 - 1.14.4     |[meteor-client-0.2.4-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.4-1.14.4.jar)|
+|0.2.3 - 1.15.2     |[meteor-client-0.2.3-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.3-1.15.2.jar)|
+|0.2.3 - 1.14.4     |[meteor-client-0.2.3-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.3-1.14.4.jar)|
+|0.2.2 - 1.15.2     |[meteor-client-0.2.2-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.2-1.15.2.jar)|
+|0.2.2 - 1.14.4     |[meteor-client-0.2.2-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.2-1.14.4.jar)|
+|0.2.1 - 1.15.2     |[meteor-client-0.2.1-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.1-1.15.2.jar)|
+|0.2.1 - 1.14.4     |[meteor-client-0.2.1-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.1-1.14.4.jar)|
+|0.2.0 - 1.15.2     |[meteor-client-0.2.0-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.0-1.15.2.jar)|
+|0.2.0 - 1.14.4     |[meteor-client-0.2.0-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.2.0-1.14.4.jar)|
+|0.1.9 - 1.15.2     |[meteor-client-0.1.9-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.9-1.15.2.jar)|
+|0.1.9 - 1.14.4     |[meteor-client-0.1.9-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.9-1.14.4.jar)|
+|0.1.8 - 1.15.2     |[meteor-client-0.1.8-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.8-1.15.2.jar)|
+|0.1.8 - 1.14.4     |[meteor-client-0.1.8-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.8-1.14.4.jar)|
+|0.1.7 - 1.15.2     |[meteor-client-0.1.7-1.15.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.7-1.15.2.jar)|
+|0.1.7 - 1.14.4     |[meteor-client-0.1.7-1.14.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.7-1.14.4.jar)|
 |0.1.6 - 1.14.4     |[meteor-client-0.1.6.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.6.jar)              |
 |0.1.5 - 1.14.4     |[meteor-client-0.1.5.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.5.jar)              |
 |0.1.4 - 1.14.4     |[meteor-client-0.1.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.1.4.jar)              |
