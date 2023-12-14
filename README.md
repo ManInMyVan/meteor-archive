@@ -98,8 +98,8 @@ For people who don't want to compile them or find them.
 
 ## Credits
 
-(Discord) `@pengasul`: 0.4.4\
-(Discord) `@unsimply`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6, 0.4.6
+(Discord) `@pengasul`: 0.4.4, 0.4.7-1396\
+(Discord) `@unsimply`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6, 0.4.6, 0.4.7-1381, 0.4.7-1388, 0.3.0.1
 
 ## Disclaimer
 
