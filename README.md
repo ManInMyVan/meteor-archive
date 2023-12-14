@@ -15,6 +15,7 @@ For people who don't want to compile them or find them.
 |0.5.1 - 1.19.2     |[meteor-client-0.5.1.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.1.jar)              |
 |0.5.0 - 1.19       |[meteor-client-0.5.0.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.0.jar)              |
 |0.4.8 - 1.18.2     |[meteor-client-0.4.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.8.jar)              |
+|0.4.6 - 1.17.1     |[meteor-client-0.4.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.6.jar)              |
 |0.4.4 - 1.16.x     |[meteor-client-0.4.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.4.jar)              |
 |0.4.2 - 1.16.x     |[meteor-client-0.4.2.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.2.jar)              |
 |0.3.8 - 1.16.x     |[meteor-client-0.3.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.3.8.jar)              |
@@ -88,17 +89,17 @@ For people who don't want to compile them or find them.
 
 ## Missing Versions
 
-|Mod            |Versions                                                                                                                                                |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Meteor Client  |0.4.9, 0.4.7, 0.4.6, 0.4.5, 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.7, 0.2.6-1.14.4, 0.2.5|
-|Starscript     |0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0                                                                                                                       |
-|Orbit          |0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0                                                               |
-|Meteor Baritone|1.19.1-SNAPSHOT, 1.18-SNAPSHOT, 1.17-SNAPSHOT                                                                                                           |
+|Mod            |Versions                                                                                                                                                                     |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Meteor Client  |0.4.9, 0.4.7, 0.4.5, 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.8-1.16.1, 0.2.7, 0.2.6-1.14.4, 0.2.6-1.16.1, 0.2.5|
+|Starscript     |0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0                                                                                                                                            |
+|Orbit          |0.2.2, 0.2.1, 0.2.0, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0                                                                                    |
+|Meteor Baritone|1.19.1-SNAPSHOT, 1.18-SNAPSHOT, 1.17-SNAPSHOT                                                                                                                                |
 
 ## Credits
 
 (Discord) `@pengasul`: 0.4.4\
-(Discord) `@unsimply`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6
+(Discord) `@unsimply`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6, 0.4.6
 
 ## Disclaimer
 
