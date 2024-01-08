@@ -4,6 +4,10 @@ A Meteor Client archive. *(and Starscript, Orbit, Meteor Baritone, & Discord Ipc
 
 For people who don't want to compile them or find them.
 
+## Disclaimer
+
+These versions will receive no support or updates, as these are old versions of Meteor Client. Please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions).
+
 ## Meteor Client
 
 |Release            |Download                                                                                                                                  |
@@ -100,11 +104,3 @@ For people who don't want to compile them or find them.
 
 (Discord) `@pengasul`: 0.4.4, 0.4.7-1396\
 (Discord) `@unsimply`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6, 0.4.6, 0.4.7-1381, 0.4.7-1388, 0.3.0.1
-
-## Disclaimer
-
-No support will be provided for these versions by **[me](https://github.com/ManInMyVan)** or by **[MeteorDevelopment](https://github.com/MeteorDevelopment)**, as these are *old* and *outdated* versions of the client.
-
-If you wish to use the latest version of Meteor Client on older server versions, get [ViaFabricPlus](https://modrinth.com/mod/viafabricplus).
-
-If you wish to use the latest version of Meteor Client on older versions of the game, you will have to compile it yourself.
