@@ -108,7 +108,7 @@ These versions will receive no support or updates, as these are old versions of 
 
 ## Credits
 
-[Mininaut](https://github.com/Mininaut): 0.4.7-1373-1\
+[Mininaut](https://github.com/Mininaut): 0.4.7-1373\
 (Discord) `@pengasul`: 0.4.4, 0.4.7-1396\
 (Discord) `@unsimply`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6, 0.4.6, 0.4.7-1381, 0.4.7-1388, 0.3.0.1
 [YumYummity](https://github.com/YumYummity) 0.4.5, 0.4.9, 0.5.6, 0.5.1-1571, 0.5.0-1562, 0.5.7-2079
