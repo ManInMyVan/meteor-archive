@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteordevelopment",
+    "module": "starscript",
+    "version": "0.1.9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "starscript-0.1.9.jar",
+          "url": "starscript-0.1.9.jar",
+          "size": 50422,
+          "sha512": "0770077e21a34a88de4844df2712b8dbced1f9b32f5b09e0a2fe667215d07af1ce9e0c8dcbd2f98666f0531950927cb39fe070a5125c3d723238024f80e15118",
+          "sha256": "17f82cedde722c0c2372679e1fc5a6c16fbf344b7db453105611c664666d5ee9",
+          "sha1": "57420b598da0061e9ef2c7494fbabd75995c0058",
+          "md5": "6c7aff65f412401c309e88592b455037"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "starscript-0.1.9.jar",
+          "url": "starscript-0.1.9.jar",
+          "size": 50422,
+          "sha512": "0770077e21a34a88de4844df2712b8dbced1f9b32f5b09e0a2fe667215d07af1ce9e0c8dcbd2f98666f0531950927cb39fe070a5125c3d723238024f80e15118",
+          "sha256": "17f82cedde722c0c2372679e1fc5a6c16fbf344b7db453105611c664666d5ee9",
+          "sha1": "57420b598da0061e9ef2c7494fbabd75995c0058",
+          "md5": "6c7aff65f412401c309e88592b455037"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "starscript-0.1.9-sources.jar",
+          "url": "starscript-0.1.9-sources.jar",
+          "size": 16467,
+          "sha512": "3510b0dc53b6aeac04654cf7a5c1e0e6f5a40954192c0659f0da7dd364e9450f389cb2a495ff8934c409c659b864374958f884596e859693ff945b619ecf2e93",
+          "sha256": "4fd64359ee9ae70fc49187ed6b41bc2ced471306ca61a2bcd8197b3304c634c3",
+          "sha1": "7f4920210736c43544da5fe446127603858c430b",
+          "md5": "5594daca0c23d1bdf61a0f616a1c9b14"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "starscript-0.1.9-javadoc.jar",
+          "url": "starscript-0.1.9-javadoc.jar",
+          "size": 191553,
+          "sha512": "af6cafa996dfb9ee5ca9f5a19e4d515d8206534b5151f5f88360bcc8f592dacc5c1dfdd535b4866bbbf536962a49cc49e10d494df1ddccaf226dd1d6cef4377a",
+          "sha256": "14cecd93c95f468038e13e227152f931cb8d5c031c500b4232b5176664a870c2",
+          "sha1": "4650cfcb6d66911cf8b9ab0d17f06dd31108478c",
+          "md5": "5a5ae837b5c337fe334f27295789ba8e"
+        }
+      ]
+    }
+  ]
+}
