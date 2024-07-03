@@ -1,0 +1,101 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteordevelopment",
+    "module": "orbit",
+    "version": "0.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "qtli3wwc6veb3mc27tq6ynks74"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 9,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "orbit-0.2.0.jar",
+          "url": "orbit-0.2.0.jar",
+          "size": 9485,
+          "sha512": "8539275f87c7a650035ffc874ee8369c7daa0e5c26a13b860a063917876344a586c14fb56f7968ad55252b6ace11827292b76041d502acded3806685d46bb6ad",
+          "sha256": "2939c92c06d4597408661317a98d7763c70e4cf90a818b4577667792bf8d63c1",
+          "sha1": "e5f0b2433d3cd3024d3bd7e3af922ab9c2501745",
+          "md5": "71fd11f13b9e297019897bd09a371169"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 9,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "orbit-0.2.0.jar",
+          "url": "orbit-0.2.0.jar",
+          "size": 9485,
+          "sha512": "8539275f87c7a650035ffc874ee8369c7daa0e5c26a13b860a063917876344a586c14fb56f7968ad55252b6ace11827292b76041d502acded3806685d46bb6ad",
+          "sha256": "2939c92c06d4597408661317a98d7763c70e4cf90a818b4577667792bf8d63c1",
+          "sha1": "e5f0b2433d3cd3024d3bd7e3af922ab9c2501745",
+          "md5": "71fd11f13b9e297019897bd09a371169"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "orbit-0.2.0-sources.jar",
+          "url": "orbit-0.2.0-sources.jar",
+          "size": 6061,
+          "sha512": "a8ea3371872dae34436a752ec8884334ac788370d345ca2d1ec2a09eaecacb37211f2c590c402fafff14cdb42def21c0482ca31baaff482b0f463c80e305da0a",
+          "sha256": "1391138ebda19503c8ab7328bde0c119922d3480254d4e86b2a04e3bda179201",
+          "sha1": "e9785ab59075f60b39c2fa13670f06d87c3d61e4",
+          "md5": "df101c99f141198f6bac901eb3927b23"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "orbit-0.2.0-javadoc.jar",
+          "url": "orbit-0.2.0-javadoc.jar",
+          "size": 326214,
+          "sha512": "6410d4383f2e8ba537443ad64e187213edfaab7abb920d5219bcc9e41b44a9f46fb23d06b3fd270f659ae1124f5b532d841c7123ee0ecd155541b341d1bbf7b5",
+          "sha256": "3a31ae90f1b96378b497102b124878c4952d3cfca8bfe686957b797ae0756b62",
+          "sha1": "514802e9f3a18096ad56a5807e64c47a94f8be92",
+          "md5": "7677e52c3215aa8e9b1e8cfe8d97dccb"
+        }
+      ]
+    }
+  ]
+}
