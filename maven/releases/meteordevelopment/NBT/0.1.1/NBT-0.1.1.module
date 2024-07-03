@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "meteordevelopment",
+    "module": "NBT",
+    "version": "0.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "NBT-0.1.1.jar",
+          "url": "NBT-0.1.1.jar",
+          "size": 30378,
+          "sha512": "63bcf5d0bd17e7d14387a318ef981f66298419b7c7e38ea207adbdf3a28cf4944742a3da93cf72f7928f2dab8bc13a5241af08887f0e4141a6a32be535adde37",
+          "sha256": "bb9f3a1127ad100424eeb85d230bc0559850be8b959ea21a3ecc735cca551d9e",
+          "sha1": "559ac653485f4132276a93b5e1b7011f215603bd",
+          "md5": "e8bcd9516ff34e92ec1a345b72e85c51"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 14,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NBT-0.1.1.jar",
+          "url": "NBT-0.1.1.jar",
+          "size": 30378,
+          "sha512": "63bcf5d0bd17e7d14387a318ef981f66298419b7c7e38ea207adbdf3a28cf4944742a3da93cf72f7928f2dab8bc13a5241af08887f0e4141a6a32be535adde37",
+          "sha256": "bb9f3a1127ad100424eeb85d230bc0559850be8b959ea21a3ecc735cca551d9e",
+          "sha1": "559ac653485f4132276a93b5e1b7011f215603bd",
+          "md5": "e8bcd9516ff34e92ec1a345b72e85c51"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NBT-0.1.1-sources.jar",
+          "url": "NBT-0.1.1-sources.jar",
+          "size": 12743,
+          "sha512": "d8c9a696a7c93d083de79a2209c477d5a24fdbac1bdcb882fcd8e22f017c9d5ccecb6774612b908295f96f1ab4978acd9dfbdef039d97b3f2df50eb56c38b492",
+          "sha256": "f4eedbde58e0fd08487f96f1145f52b98806b67f87cf15e1356e214f9c9ba939",
+          "sha1": "8720e3b4da745e44695f4a228336057ed2ab6093",
+          "md5": "296ad63613fd0b9792392cf96d023e83"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NBT-0.1.1-javadoc.jar",
+          "url": "NBT-0.1.1-javadoc.jar",
+          "size": 174793,
+          "sha512": "4ba6caaaa6b9c8819efd79bb0943231f8d77bd51f8689c45bb3b7f65f258445b86c1e089e4566aea51ad428517aaf3ca85c36e45ea0111c6c37a847f85ef35dc",
+          "sha256": "7ddaaaf3d76ef5a444d502387aa4bcffa4f9231e39720295b5ff07d36a5f1942",
+          "sha1": "fa64e398c5be19823f761c61dfbca070e3bb8263",
+          "md5": "c1dcc44ff4e49663bb5c6dd70811090f"
+        }
+      ]
+    }
+  ]
+}
