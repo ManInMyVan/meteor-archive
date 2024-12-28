@@ -15,6 +15,7 @@ These versions will receive no support or updates, as these are old versions of 
 
 | Release             | Download                                                                                                                                   |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.5.8 - 1.21.1      | [meteor-client-0.5.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.8.jar)               |
 | 0.5.7 - 1.20.6      | [meteor-client-0.5.7.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.7.jar)               |
 | 0.5.6 - 1.20.4      | [meteor-client-0.5.6.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.6.jar)               |
 | 0.5.5 - 1.20.2      | [meteor-client-0.5.5.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.5.jar)               |
