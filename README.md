@@ -64,6 +64,7 @@ These versions will receive no support or updates, as these are old versions of 
 | Release | Download                                                                                                                          |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 1.21.3  | [baritone-1.21.3-20241117.084726-1.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.21.3-20241117.084726-1.jar)     |
+| 1.21.1  | [fabric-1.21.1-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/refs/heads/main/files/baritone/baritone-1.11.0+1.21.jar)     |
 | 1.20.2  | [fabric-1.20.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/fabric-1.20.2-SNAPSHOT.jar)     |
 | 1.20.1  | [baritone-1.20.1-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.20.1-SNAPSHOT.jar) |
 | 1.20    | [baritone-1.20-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.20-SNAPSHOT.jar)     |
