@@ -14,7 +14,8 @@ These versions will receive no support or updates, as these are old versions of 
 ## Meteor Client
 
 | Release             | Download                                                                                                                                   |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------
+| 1.21.4 (compiled) | [meteor-client-1.21.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-1.21.4-local.jar)
 | 0.5.9 - 1.21.2/1.21.3 | [meteor-client-0.5.9.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.9.jar)               |
 | 0.5.8 - 1.21.1      | [meteor-client-0.5.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.8.jar)               |
 | 0.5.7 - 1.20.6      | [meteor-client-0.5.7.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.7.jar)               |
