@@ -7,6 +7,11 @@ A Meteor Client archive. *(and Starscript, Orbit, NBT, Meteor Baritone, & Discor
 
 For people who don't want to compile them or find them.
 
+This can be used as a Maven repository:
+```kts
+// build.gradle.kts
+maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
+```
 ## Disclaimer
 
 These versions will receive no support or updates, as these are old versions of Meteor Client. Please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions).
