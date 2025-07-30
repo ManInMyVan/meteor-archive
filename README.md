@@ -7,22 +7,6 @@ A Meteor Client archive. *(and Starscript, Orbit, NBT, Meteor Baritone, & Discor
 
 For people who don't want to compile them or find them.
 
-## Developers
-
-This can be used as a Maven repository
-```kts
-maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
-```
-```groovy
-maven { url 'https://maninmyvan.github.io/meteor-archive/maven/releases' }
-```
-```xml
-<repository>
-    <id>meteor-archive</id>
-    <url>https://maninmyvan.github.io/meteor-archive/maven/releases</url>
-<repository>
-```
-
 ## Disclaimer
 
 These versions will receive no support or updates, as these are old versions of Meteor Client. Please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions).
@@ -98,6 +82,22 @@ These versions will receive no support or updates, as these are old versions of 
 | Meteor Client   | 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.8-1.16.1, 0.2.7, 0.2.6-1.14.4, 0.2.6-1.16.1, 0.2.5 |
 | Orbit           | 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0                                                                                            |
 | Meteor Baritone | 1.19.1-SNAPSHOT, 1.18-SNAPSHOT, 1.17-SNAPSHOT                                                                                                                   |
+
+## Developers
+
+This can be used as a Maven repository
+```kts
+maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
+```
+```groovy
+maven { url 'https://maninmyvan.github.io/meteor-archive/maven/releases' }
+```
+```xml
+<repository>
+    <id>meteor-archive</id>
+    <url>https://maninmyvan.github.io/meteor-archive/maven/releases</url>
+<repository>
+```
 
 ## Credits
 
