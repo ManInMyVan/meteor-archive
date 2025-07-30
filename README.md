@@ -9,8 +9,13 @@ For people who don't want to compile them or find them.
 
 This can be used as a Maven repository:
 ```kts
-// build.gradle.kts
 maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
+```
+```xml
+<repository>
+    <id>meteor-archive</id>
+    <url>https://maninmyvan.github.io/meteor-archive/maven/releases</url>
+<repository>
 ```
 ## Disclaimer
 
