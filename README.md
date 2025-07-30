@@ -7,9 +7,14 @@ A Meteor Client archive. *(and Starscript, Orbit, NBT, Meteor Baritone, & Discor
 
 For people who don't want to compile them or find them.
 
-This can be used as a Maven repository:
+## Developers
+
+This can be used as a Maven repository
 ```kts
 maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
+```
+```groovy
+maven { url 'https://maninmyvan.github.io/meteor-archive/maven/releases' }
 ```
 ```xml
 <repository>
@@ -17,6 +22,7 @@ maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
     <url>https://maninmyvan.github.io/meteor-archive/maven/releases</url>
 <repository>
 ```
+
 ## Disclaimer
 
 These versions will receive no support or updates, as these are old versions of Meteor Client. Please read the [Old Versions FAQ](https://meteorclient.com/faq/old-versions).
