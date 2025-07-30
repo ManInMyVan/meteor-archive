@@ -86,10 +86,10 @@ These versions will receive no support or updates, as these are old versions of 
 ## Developers
 
 This can be used as a Maven repository for
-- Starscript
-- Orbit
-- NBT
-- Discord IPC
+- [Starscript](https://github.com/MeteorDevelopment/starscript)
+- [Orbit](https://github.com/MeteorDevelopment/orbit)
+- [NBT](https://github.com/MeteorDevelopment/nbt)
+- [Discord IPC](https://github.com/MeteorDevelopment/discord-ipc)
 
 ```kts
 maven("https://maninmyvan.github.io/meteor-archive/maven/releases")
