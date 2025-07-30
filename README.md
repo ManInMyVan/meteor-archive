@@ -27,6 +27,7 @@ These versions will receive no support or updates, as these are old versions of 
 | 0.5.0 - 1.19        | [meteor-client-0.5.0.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.0.jar)               |
 | 0.4.9 - 1.18.2      | [meteor-client-0.4.9.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.9.jar)               |
 | 0.4.8 - 1.18.2      | [meteor-client-0.4.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.8.jar)               |
+| 0.4.7 - 1.18.1      | [meteor-client-0.4.7.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.7.jar)               |
 | 0.4.6 - 1.17.1      | [meteor-client-0.4.6.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.6.jar)               |
 | 0.4.5 - 1.17.1      | [meteor-client-0.4.5.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.5.jar)               |
 | 0.4.4 - 1.16.x      | [meteor-client-0.4.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.4.4.jar)               |
@@ -78,13 +79,14 @@ These versions will receive no support or updates, as these are old versions of 
 
 | Mod             | Versions                                                                                                                                                        |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Meteor Client   | 0.4.7, 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.8-1.16.1, 0.2.7, 0.2.6-1.14.4, 0.2.6-1.16.1, 0.2.5 |
+| Meteor Client   | 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.8-1.16.1, 0.2.7, 0.2.6-1.14.4, 0.2.6-1.16.1, 0.2.5 |
 | Orbit           | 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1.0                                                                                            |
 | Meteor Baritone | 1.19.1-SNAPSHOT, 1.18-SNAPSHOT, 1.17-SNAPSHOT                                                                                                                   |
 
 ## Credits
 
 [Mininaut](https://github.com/Mininaut): 0.4.7-1373\
+[exalented](https://github.com/exalented): 0.4.7, 0.4.7-1384, 0.4.7-1405\
 ~~(Discord) `@pengasul`~~: 0.4.4, 0.4.7-1396, 0.4.8-1441, 0.4.8-1427, 0.4.6-1180, 0.5.1-1690\
 (Discord) `@trimming.the.herbs`: 0.2.6-1.15.2, 0.2.8-1.14.4, 0.3.6, 0.4.6, 0.4.7-1381, 0.4.7-1388, 0.3.0.1\
 [YumYummity](https://github.com/YumYummity) 0.4.5, 0.4.9, 0.5.6, 0.5.1-1571, 0.5.0-1562, 0.5.7-2079
