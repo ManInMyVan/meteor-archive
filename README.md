@@ -14,7 +14,8 @@ These versions will receive no support or updates, as these are old versions of 
 ## Meteor Client
 
 | Release             | Download                                                                                                                                   |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------
+| 1.21.4 (compiled) | [meteor-client-1.21.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-1.21.4-local.jar)
 | 0.5.9 - 1.21.2/1.21.3 | [meteor-client-0.5.9.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.9.jar)               |
 | 0.5.8 - 1.21.1      | [meteor-client-0.5.8.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.8.jar)               |
 | 0.5.7 - 1.20.6      | [meteor-client-0.5.7.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/meteor-client/meteor-client-0.5.7.jar)               |
@@ -64,7 +65,9 @@ These versions will receive no support or updates, as these are old versions of 
 
 | Release | Download                                                                                                                          |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 1.21.4  | [baritone-1.21.4.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-meteor-1.21.4.jar)
 | 1.21.3  | [baritone-1.21.3-20241117.084726-1.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.21.3-20241117.084726-1.jar)     |
+| 1.20.4  | [1.20.4 (compiled) (folder)](https://github.com/ManInMyVan/meteor-archive/tree/main/files/baritone/1.20.4)                            |
 | 1.20.2  | [fabric-1.20.2-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/fabric-1.20.2-SNAPSHOT.jar)     |
 | 1.20.1  | [baritone-1.20.1-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.20.1-SNAPSHOT.jar) |
 | 1.20    | [baritone-1.20-SNAPSHOT.jar](https://github.com/ManInMyVan/meteor-archive/raw/main/files/baritone/baritone-1.20-SNAPSHOT.jar)     |

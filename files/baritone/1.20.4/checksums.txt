@@ -1,0 +1,6 @@
+a2c6fd053d02235e3b1f564240c29a1e1bbd5083  baritone-api-1.20.4-SNAPSHOT.jar
+c2ff972de3c5868830f5d1d7fe093f224fbb0570  baritone-api-fabric-1.20.4-SNAPSHOT.jar
+1a9fb3e56a8892cdd0de0a60c9b14380049d34c6  baritone-standalone-1.20.4-SNAPSHOT.jar
+2780745d4f2130eee4fc0bcb66af0cf2bcf3cf21  baritone-standalone-fabric-1.20.4-SNAPSHOT.jar
+9b9185277a9a87a62d3b96575436864948a5132f  baritone-unoptimized-1.20.4-SNAPSHOT.jar
+d879e320b5361da8814832a35b07fe6c80dd2fca  baritone-unoptimized-fabric-1.20.4-SNAPSHOT.jar
